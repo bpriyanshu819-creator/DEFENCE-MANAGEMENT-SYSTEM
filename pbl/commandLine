@@ -1,0 +1,6 @@
+//g++ main.cpp Force/Force.cpp Army/Army.cpp Navy/Navy.cpp AirForce/AirForce.cpp Weapon/Weapon.cpp JointOperation/JointOperation.cpp -o pbl.exe
+
+
+
+
+//.\pbl.exe
